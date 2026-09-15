@@ -43,12 +43,14 @@ Keep evidence of the process, not only the successful result.
 
 **First instruction set**
 
-1.
-2.
-3.
-4.
-5.
-6.
+1. Blatt liegt im Querformat.
+2. In der Mitte des Blattes befindet sich ein Quadrat, das 3/4 vom Blatt gross ist.
+3. In der Mitte des Quadrates befindet sich ein kleiner Kreis, der ausgemalt ist.
+4. Ausserhalb vom kleinem Kreis befindet sich nochmals ein Kreis. Der kleine Kreis liegt in der Mitte des grösseren Kreises.
+5. An jedem Ecken des Quadrats hat es ein kleineres Quadrat. Es überschneidet sich, das heisst die Ecke befindet sich in der Mitte des kleines Quadrats.
+6. Es hat 3 durchgezogene vertikale Linien in der Mitte des Blattes.
+7. Es hat 1 durchgezogene horizontale Linie in der Mitte des Blattes.
+8. 2 Grössere Kreise befindet sich ausserhalb vom grossen Quadrat auf der horizontale Linie. 1x rechts und 1x links.
 
 **First execution**
 
