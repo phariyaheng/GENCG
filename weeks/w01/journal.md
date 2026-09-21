@@ -19,12 +19,12 @@ publish: true
 
 Keep evidence of the process, not only the successful result.
 
-- [ ] Original drawing or idea
-- [ ] First instruction set
-- [ ] First execution by another person
-- [ ] Moments of confusion or ambiguity
-- [ ] Revised instructions
-- [ ] Second execution
+- [x] Original drawing or idea
+- [x] First instruction set
+- [x] First execution by another person
+- [x] Moments of confusion or ambiguity
+- [x] Revised instructions
+- [x] Second execution
 - [ ] Small rule system
 - [ ] Sketch or diagram of the system
 - [ ] p5.js translation
@@ -39,41 +39,43 @@ Keep evidence of the process, not only the successful result.
 
 **Original idea**
 
-<!-- Add your drawing and a short description. -->
+<!-- Add your drawing and a short description. -->![[1. Phariya 1.pdf]]
 
 **First instruction set**
 
-1. Blatt liegt im Querformat.
-2. In der Mitte des Blattes befindet sich ein Quadrat, das 3/4 vom Blatt gross ist.
-3. In der Mitte des Quadrates befindet sich ein kleiner Kreis, der ausgemalt ist.
-4. Ausserhalb vom kleinem Kreis befindet sich nochmals ein Kreis. Der kleine Kreis liegt in der Mitte des grösseren Kreises.
-5. An jedem Ecken des Quadrats hat es ein kleineres Quadrat. Es überschneidet sich, das heisst die Ecke befindet sich in der Mitte des kleines Quadrats.
-6. Es hat 3 durchgezogene vertikale Linien in der Mitte des Blattes.
-7. Es hat 1 durchgezogene horizontale Linie in der Mitte des Blattes.
-8. 2 Grössere Kreise befindet sich ausserhalb vom grossen Quadrat auf der horizontale Linie. 1x rechts und 1x links.
+1. The sheet is in landscape orientation.
+2. In the centre of the sheet, there is a square that covers approximately three-quarters of the sheet.
+3. In the centre of the square, there is a small filled-in circle.
+4.  Around the small circle, there is a larger circle. The small circle is positioned in the centre of the larger circle.
+5. At each corner of the large square, there is a smaller square. The squares overlap so that each corner of the large square is positioned in the centre of a smaller square.
+6. There are three solid vertical lines in the centre of the sheet.
+7. There is one solid horizontal line across the centre of the sheet.
+8. There are two larger circles outside the large square, positioned on the horizontal line: one on the right and one on the left.
 
 **First execution**
 
 <!-- Embed or link the result produced by your partner. -->
-
+![[1. Lösung Michelle 1.pdf]]
 **Where did interpretation differ?**
 
--
--
+- The sizes of the shapes are different.
+- The lines do not extend all the way across the sheet.
 
 **Revised instructions**
 
-1.
-2.
-3.
-4.
-5.
-6.
+1. The sheet is in landscape orientation.
+2. In the centre of the sheet, there is a circle.
+3.  Draw a line inside the circle, like the hand of a clock pointing to 5 o’clock.
+4. Draw a rectangle around the circle. It should not be much larger than the circle.
+5. In the top-right corner of the rectangle, there is a filled-in circle. It overlaps the corner.
+6. Below the rectangle, draw 8 horizontal lines that gradually become shorter. Below the lines, draw 5 circles that gradually become larger.
+7. To the left of the rectangle, draw a large triangle. Inside the triangle, draw 3 circles that gradually become smaller.
 
 **Second execution**
 
 <!-- Embed or link the second result. What changed? -->
-
+![[4. Michelle.pdf]]
+![[5. Lösung Phariya.pdf]]
 ### Small rule system
 
 - **Starting condition:**
