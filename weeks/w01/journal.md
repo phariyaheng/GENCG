@@ -76,16 +76,9 @@ Keep evidence of the process, not only the successful result.
 <!-- Embed or link the second result. What changed? -->
 ![[4. Michelle.pdf]]
 ![[5. Lösung Phariya.pdf]]
-### Small rule system
+### Instruction tested on Google-Imagegenerator:
 
-- **Starting condition:**
-- **Action:**
-- **Relationship:**
-- **Variation:**
-- **Constraint:**
-- **Stopping rule:**
-
-<!-- Add a sketch or diagram of the system. -->
+![[Bildschirmfoto 2026-09-22 um 16.12.34 1.png]]
 
 ### Human → Computer
 
@@ -94,9 +87,6 @@ What did a human understand automatically that the computer needed you to specif
 -
 -
 
-```js
-// Add your own p5.js translation here.
-```
 
 **Parameters tested**
 
