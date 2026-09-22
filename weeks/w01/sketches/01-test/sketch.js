@@ -11,7 +11,7 @@ function draw() {
   strokeWeight(2);
 
   rect(300, 100, 600, 600);
-  //300 = x-Position 100=y-Position 600=Breite 600=Höhe
+  //x-Position, y-Position, Breite, Höhe
 
   // 2. Punkt in der Mitte
 
@@ -26,25 +26,16 @@ function draw() {
 
   // 4. Kleine Quadrate an den Ecken
   
-  // oben links
   rect(250, 50, 100, 100);
-
-  // oben rechts
   rect(850, 50, 100, 100);
-
-  // unten links
   rect(250, 650, 100, 100);
-
-  // unten rechts
   rect(850, 650, 100, 100);
 
 
   // 5. Drei vertikale Linien
 
   line(565, 100, 565, 700);
-
   line(600, 100, 600, 700);
-
   line(635, 100, 635, 700);
 
   // 6. Horizontale Linie
