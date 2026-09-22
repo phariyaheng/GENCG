@@ -84,8 +84,10 @@ Keep evidence of the process, not only the successful result.
 
 What did a human understand automatically that the computer needed you to specify?
 
--
--
+- A human automatically understands where the centre of the canvas is.
+- The computer needs exact coordinates or calculations
+
+![[Bildschirmfoto 2026-09-22 um 17.29.54.png]]
 
 
 **Parameters tested**
@@ -97,8 +99,9 @@ What did a human understand automatically that the computer needed you to specif
 
 **Technical challenges or failed attempts**
 
--
--
+At first, I used fixed coordinates instead of flexible ones. This caused problems when the canvas size changed because the shapes did not adjust automatically.
+
+
 
 ## 2. Influences & References
 

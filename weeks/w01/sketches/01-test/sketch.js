@@ -40,7 +40,7 @@ function draw() {
 
   // 6. Horizontale Linie
 
-  line(300, 400, 900, 400);
+  line(100, 400, 1100, 400,);
 
   // 7. 2 Kreise
 
