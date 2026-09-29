@@ -1,18 +1,3 @@
----
-title: Week 02
-date: 2026-09-14
-week: 1
-tags:
-  - workflow
-  - experiment
-publish: true
----
-
-Continue working on the journal and experiments
-
-- [[weeks/w02/journal|Journal]]
-- [Test p5.js sketch](sketches/01-test/)
-
 function setup() {
   createCanvas(1200, 800);
 }
@@ -28,16 +13,12 @@ function draw() {
   rect(300, 100, 600, 600);
 
 
-
-
   fill(0);
   ellipse(600, 400, 30, 30);
 
 
-
   noFill();
   ellipse(600, 400, 150, 150);
-
 
 
   rect(250, 50, 100, 100);
@@ -46,18 +27,12 @@ function draw() {
   rect(850, 650, 100, 100);
 
 
-  // 5. Vertikale Linien mit Wiederholung
-
   for (let x = 565; x <= 635; x = x + 35) {
     line(x, 100, x, 700);
   }
 
 
-
-
   line(300, 400, 900, 400);
-
-
 
 
   ellipse(250, 400, 100, 100);

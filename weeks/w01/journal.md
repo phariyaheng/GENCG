@@ -101,7 +101,19 @@ What did a human understand automatically that the computer needed you to specif
 
 At first, I used fixed coordinates instead of flexible ones. This caused problems when the canvas size changed because the shapes did not adjust automatically.
 
+function setup() {
+  createCanvas(1200, 800);
+}
 
+function draw() {
+  background(255);
+
+  stroke(0);
+  strokeWeight(2);
+  noFill();
+
+  // 1. Grosses Quadrat
+  rect(width/4, height/8, width/2, height*3/4);
 
 ## 2. Influences & References
 
